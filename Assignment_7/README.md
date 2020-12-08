@@ -1,45 +1,21 @@
-Write a colab entirely in tfx interactive context for doing any of the following end2end with all artifacts. (for each stage write it to a file in colab like example and then refer it in pipeline)
+The assignment involves writing a gradient boost machine from scratch for some test data set.
 
- 
+(hint - the colab and article linked in https://docs.google.com/presentation/d/1tX64XE-_JKJXUgmPqOKieY5Ibe9HKWSVXOBSeGnzeL4/edit#slide=id.ga2af525914_0_6970 (Links to an external site.))
 
-pick one of the below problems : 
-
-mnist
-
-cifar10
-
-imdb
-
-iris
-
-chicago taxi pipeline
-
-probablity of customer compliants (see buildingmlpipelines.com example)
-
-Hints : https://github.com/tensorflow/tfx/tree/master/tfx/examples (Links to an external site.)
-
-Sample colab : https://www.tensorflow.org/tfx/tutorials/tfx/components_keras  or https://github.com/Building-ML-Pipelines/building-machine-learning-pipelines/blob/master/interactive-pipeline/interactive_pipeline.ipynb (Links to an external site.)
-
- 
+Please submit the colab github link with executed results.
 
 Extra credits :
 
-a) Write tfx colabs for all of the above not just one
+For all, see https://docs.google.com/presentation/d/1tX64XE-_JKJXUgmPqOKieY5Ibe9HKWSVXOBSeGnzeL4/edit#slide=id.p slide for hints and links to samples (Links to an external site.)
 
-b) Write cloud ai platform pipelines for all of the above (not just one)
+(you can try with gpu as well as grid search for hyper parameters as well if you want to delve deeper)
 
-c) even more extra points - showcase in kubeflow, airflow, beam - all three (one each of above examples)
+a) do a simple colab with some kaggle data set on xgboost machine - do gridsearch on hyperparams if possible
 
- 
+b) do a simple colab with some kaggle data set on catboost (ideally using gpu) - do gridsearch on hyperparams if possible
 
-NOTE: DO NOT COPY PASTE - DO FROM SCRATCH BY TYPING. DOES NOT MATTER. This is for you to learn - not to just do it for marks. TFX is hard topic - the more you do it the more you will master.
+c) do a simple colab with some kaggle data set on lightgbm - do gridsearch on hyperparams if possible
 
- 
+d) do a simple colab with detailed visualization of results (see https://www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding (Links to an external site.))  with some kaggle data set on tensorflow boosted trees (tfbt) - do gridsearch on hyperparams if possible
 
- 
-
-Everything should be published in github with proper readme - with proper access control for me to grade. Please ensure all assets are there (run of the colab properly shown etc.,. and link to screenshots of cloud etc.,.)
-
- 
-
-Github URL should be provided in the homework
+e) repeat the colab code to make it work on sparkml - check the code for the chapter https://docs.google.com/presentation/d/1tX64XE-_JKJXUgmPqOKieY5Ibe9HKWSVXOBSeGnzeL4/edit#slide=id.ga2af525914_0_5137 (Links to an external site.) - and try out and showcase in code.  - do gridsearch on hyperparams if possible
