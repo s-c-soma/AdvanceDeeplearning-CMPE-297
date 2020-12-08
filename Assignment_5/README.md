@@ -1,3 +1,17 @@
+# Assignment-5
+
+## Main Assignments:
+1. Assignment_5_Text_Classification_with_Transformer_IMDB.ipynb
+
+## Extra Credit Assignments:
+1. ExtraCredit_Assignment_5a_Semantic_Similarity_with_Bert.ipynb
+2. ExtraCredit_Assignment_5b_Pretrained_Word_Embeddings.ipynb
+3. ExtraCredit_Assignment_5c_Text_Extraction_with_Bert.ipynb
+4. ExtraCredit_Assignment_5d_Paraphrasing_for_Data_Augmentation.ipynb
+
+
+# Requirements
+
 In this assignment you will build a simple transformer with attention layer and do text classification of imdb
 
 (hint - please see https://keras.io/examples/nlp/text_classification_with_transformer/ (Links to an external site.))
