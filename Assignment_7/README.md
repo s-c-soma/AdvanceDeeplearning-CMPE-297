@@ -1,3 +1,19 @@
+# Assignment-7
+
+## Main Assignments:
+1. Assignment_7_GradientBoosting_Scratch.ipynb
+
+## Extra Credit Assignments:
+1. ExtraCredit_Assignment_7a_xgboost_hyperparams.ipynb
+2. ExtraCredit_Assignment_7b_catboost_hyperparams.ipynb
+3. ExtraCredit_Assignment_7c_lightGBM_hyperparams.ipynb
+4. ExtraCredit_Assignment_7d_TensorflowBoostedTrees(TFBT).ipynb
+5. ExtraCredit_Assignment_7e_XGBoost_SparkML.ipynb
+
+
+
+# Requirements
+
 The assignment involves writing a gradient boost machine from scratch for some test data set.
 
 (hint - the colab and article linked in https://docs.google.com/presentation/d/1tX64XE-_JKJXUgmPqOKieY5Ibe9HKWSVXOBSeGnzeL4/edit#slide=id.ga2af525914_0_6970 (Links to an external site.))
