@@ -1,3 +1,14 @@
+# Assignment-6
+
+## Main Assignments:
+1. Assignment_6_TFX_End2End_Pipeline_CIFAR10.ipynb
+
+## Extra Credit Assignments:
+1. ExtraCredit_Assignment_6_TFX_End2End_Pipeline_ChicagoTaxi.ipynb
+2. ExtraCredit_Assignment_6_TFX_End2End_Pipeline_IRIS.ipynb
+
+
+# Requirements
 Write a colab entirely in tfx interactive context for doing any of the following end2end with all artifacts. (for each stage write it to a file in colab like example and then refer it in pipeline)
 
  
