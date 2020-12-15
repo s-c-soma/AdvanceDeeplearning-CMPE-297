@@ -6,6 +6,9 @@
 ## Extra Credit Assignments:
 1. ExtraCredit_Assignment_6_TFX_End2End_Pipeline_ChicagoTaxi.ipynb
 2. ExtraCredit_Assignment_6_TFX_End2End_Pipeline_IRIS.ipynb
+3. ExtraCredit_Assignment_6_TFX_End2End_Pipeline_IMDB.ipynb
+4. ExtraCredit_Assignment_6_TFX_End2End_Pipeline_MNIST.ipynb
+
 
 
 # Requirements
