@@ -3,7 +3,7 @@ This repository contains some assignments and solutions as a part of course -CMP
 
 # Extra Credit Assignments:
 
-This folder contains all the extracredit assignments from Assignment: 3, 4,5,6, and 7.  Extracredit assignments are also avaliable in the respective assignment folders.
+This https://github.com/s-c-soma/AdvanceDeeplearning-CMPE-297/tree/master/ExtraCredit folder contains all the extracredit assignments from Assignment: 3, 4,5,6, and 7.  Extracredit assignments are also avaliable in the respective assignment folders.
 
 ## Extra Credit Assignments-3:
 1. ExtraCredit_Assignment_3_Part_A.ipynb
