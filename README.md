@@ -11,11 +11,11 @@ This https://github.com/s-c-soma/AdvanceDeeplearning-CMPE-297/tree/master/ExtraC
 3. ExtraCredit_Assignment_3_Part_D.ipynb
 
 ## Extra Credit Assignments-4:
-1. Assignment_4d.ipynb
-2. Assignment_4e_Reptile_Fomaml.ipynb
-3. Assignment_4f_MMOE.ipynb
-4. Assignment_4g_BERT_MTL_Framework.ipynb
-5. Assignment_4j_Multi_Task_NLP_Framework.ipynb
+1. ExtraCredit_Assignment_4d.ipynb
+2. ExtraCredit_Assignment_4e_Reptile_Fomaml.ipynb
+3. ExtraCredit_Assignment_4f_MMOE.ipynb
+4. ExtraCredit_Assignment_4g_BERT_MTL_Framework.ipynb
+5. ExtraCredit_Assignment_4j_Multi_Task_NLP_Framework.ipynb
 
 ## Extra Credit Assignments-5:
 1. ExtraCredit_Assignment_5a_Semantic_Similarity_with_Bert.ipynb
