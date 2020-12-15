@@ -9,6 +9,8 @@
 3. ExtraCredit_Assignment_3_Part_D.ipynb
 
 
+
+# Requirements
 a) Use tensorflow hub model of simclr v2 and finetune and do supervised classification using simclrv2. Also compare the results with non simclr v2 method (regular resnet finetuning without simclr v2) 
 
 Sample colab :  https://colab.sandbox.google.com/github/google-research/simclr/blob/master/colabs/finetuning.ipynb#scrollTo=BxhfMmVdHoZM (Links to an external site.)  (note : the actual colab starts at
